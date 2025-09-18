@@ -1,8 +1,8 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
 EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-# Name: GOGINENI BIDHISHA
-# REG NO:212223040048
-# Date:01-09-2025
+### Name: GOGINENI BIDHISHA
+### REG NO:212223040048
+### Date:01-09-2025
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory 
